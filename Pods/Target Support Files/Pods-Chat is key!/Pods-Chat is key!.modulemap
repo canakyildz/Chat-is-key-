@@ -1,0 +1,6 @@
+framework module Pods_Chat_is_key_ {
+  umbrella header "Pods-Chat is key!-umbrella.h"
+
+  export *
+  module * { export * }
+}
